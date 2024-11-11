@@ -46,8 +46,8 @@ Flatten the index,confidence.
 Display the result.
 
 ```
-DEVELOPED BY : yendluri chandana
-reg no : 212223100063
+DEVELOPED BY : Gedipudi Darshani
+reg no : 212223230062
 ```
 ## I)Perform ROI from an image
 ```
